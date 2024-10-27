@@ -2,17 +2,17 @@
 
 @font-face {
   font-family: "Rabbit";
-  src: url('/fonts/Comic_White_Rabbit_.otf') format('truetype');
+  src: url('fonts/Comic_White_Rabbit_.otf') format('truetype');
 }
 
 @font-face {
   font-family: "Chewy";
-  src: url('/fonts/Chewy.ttf') format('truetype');
+  src: url('fonts/Chewy.ttf') format('truetype');
 }
 
 @font-face {
   font-family: "Pixel";
-  src: url('/fonts/Pixel Coleco.otf') format('truetype');
+  src: url('fonts/Pixel Coleco.otf') format('truetype');
 }
 
 .fa-hashtag {

@@ -17,10 +17,10 @@ weight = 30
 unsafe= true
 
 [params.logos]
-    header = "/images/logos/header.png"
+    header = "images/logos/header.png"
 
 [params.header]
-    background = "/images/header/layered-steps-haikei.png"
+    background = "images/header/layered-steps-haikei.png"
 
 [params.instagram]
     link = "https://www.instagram.com/bargolf24"
