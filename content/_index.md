@@ -8,7 +8,7 @@ draft = false
 {{< event-info >}}
 * DATE & TIME | **November 2nd @ 12 pm**
 * MEETING LOCATION | **North Market**
-* ATTIRE | **Halloween Costume of your choice 👻** - *it is your best interest to pick a good costume*
+* ATTIRE | **Halloween Costume of your choice 👻** - *it is in your best interest to pick a good costume*
 {{< /event-info >}}
 
 ## Route
