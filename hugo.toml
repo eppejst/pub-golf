@@ -1,0 +1,30 @@
+baseURL = 'https://15ajohnson.github.io/pub-golf/'
+languageCode = 'en-us'
+title = 'Pub Golf'
+theme = 'event'
+
+[[menus.main]]
+name = 'Route'
+pageRef = '#route'
+weight = 20
+
+[[menus.main]]
+name = 'Tags'
+pageRef = '/tags'
+weight = 30
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[params.logos]
+    header = "/images/logos/header.png"
+
+[params.header]
+    background = "/images/header/layered-steps-haikei.png"
+
+[params.instagram]
+    link = "https://www.instagram.com/bargolf24"
+
+[params.route]
+    embedCode = "https://www.google.com/maps/d/u/0/embed?mid=13-4ec5r0Rw3JBodS9PohdPMHpoykoRA&hl=en&ll=39.97403811121406%2C-83.00668184820655&z=15"
+    shareLink = "https://www.google.com/maps/d/u/0/viewer?mid=13-4ec5r0Rw3JBodS9PohdPMHpoykoRA&hl=en&ll=39.97403811121406%2C-83.00668184820655&z=15&usp=sharing"
