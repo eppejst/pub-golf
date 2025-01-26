@@ -41,7 +41,7 @@ header {
   z-index: 99;
   position: sticky;
   top: 0;
-  background-color: #000000;
+  background-color: #9FD85A;
 }
 
 header .header {
@@ -361,7 +361,7 @@ footer p {
   left: 25%;
   width: 80px;
   height: 80px;
-  animation-delay: 0.5s;
+  animation-delay: 0s;
 }
 
 .circles li:nth-child(2) {
@@ -383,7 +383,7 @@ footer p {
   left: 40%;
   width: 60px;
   height: 60px;
-  animation-delay: 0.5s;
+  animation-delay: 0s;
   animation-duration: 18s;
 }
 
@@ -391,7 +391,7 @@ footer p {
   left: 65%;
   width: 20px;
   height: 20px;
-  animation-delay: 0.5s;
+  animation-delay: 0s;
 }
 
 .circles li:nth-child(6) {
@@ -428,7 +428,7 @@ footer p {
   left: 85%;
   width: 150px;
   height: 150px;
-  animation-delay: 0.5s;
+  animation-delay: 0s;
   animation-duration: 11s;
 }
 
