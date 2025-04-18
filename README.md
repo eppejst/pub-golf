@@ -1,1 +1,1 @@
-https://15ajohnson.github.io/pub-golf/
+https://eppejst.github.io/pub-golf/
