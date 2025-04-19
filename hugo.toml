@@ -1,4 +1,4 @@
-baseURL = 'https://15ajohnson.github.io/pub-golf/'
+baseURL = 'https://eppejst.github.io/pub-golf/'
 languageCode = 'en-us'
 title = 'Pub Golf'
 theme = 'event'
@@ -23,8 +23,8 @@ unsafe= true
     background = "images/header/layered-steps-haikei.png"
 
 [params.instagram]
-    link = "https://www.instagram.com/bargolf24"
+    link = ""
 
 [params.route]
-    embedCode = "https://www.google.com/maps/d/u/0/embed?mid=13-4ec5r0Rw3JBodS9PohdPMHpoykoRA&hl=en&ll=39.97403811121406%2C-83.00668184820655&z=15"
-    shareLink = "https://www.google.com/maps/d/u/0/viewer?mid=13-4ec5r0Rw3JBodS9PohdPMHpoykoRA&hl=en&ll=39.97403811121406%2C-83.00668184820655&z=15&usp=sharing"
+    embedCode = "https://www.google.com/maps/d/u/0/embed?mid=1OOQ86R1PV3uNG8j1rPuuttCADmulah4&ll=59.924290517388265%2C10.757464918866612&z=14"
+    shareLink = "https://www.google.com/maps/d/u/0/viewer?mid=1OOQ86R1PV3uNG8j1rPuuttCADmulah4&ll=59.92408178482366%2C10.7592463328467&z=15"
